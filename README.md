@@ -1,4 +1,8 @@
-Hey There!
+Software engineering student with a planned May 2024 graduation date.
+
+Experience working with Python / Java building machine learning models and algorithms. Interest in software development lifecycle, full stack development, and learning new technologies.
+
+Constantly evolving and expanding my knowledge in a variety of areas.
 
 <!--
 **rhavens/rhavens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
