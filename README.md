@@ -1,8 +1,8 @@
-Software engineering student with a planned May 2024 graduation date.
+I love to work in Python, Java and Javascript. However, I am constantly learning new tools and can use whatever is needed for the job.
 
-Experience working with Python / Java building machine learning models and algorithms. Interest in software development lifecycle, full stack development, and learning new technologies.
+I am finding great interest in technologies that allow different pieces of software/hardware to talk to one another. Therefore I am building a strong understanding of API development, front / back end communication, and database retrieval.
 
-Constantly evolving and expanding my knowledge in a variety of areas.
+I love jamming to drum/bass electronic music while I code, and my dog in my lap!
 
 <!--
 **rhavens/rhavens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
