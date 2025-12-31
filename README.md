@@ -1,8 +1,4 @@
-I love to work in Python, Java and Javascript. However, I am constantly learning new tools and can use whatever is needed for the job.
-
-I am finding great interest in technologies that allow different pieces of software/hardware to talk to one another. Therefore I am building a strong understanding of API development, front / back end communication, and database retrieval.
-
-I love jamming to drum/bass electronic music while I code, and my dog in my lap!
+Currently Exploring utilization of transoformer models in relation to soundwaves
 
 <!--
 **rhavens/rhavens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
