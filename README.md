@@ -1,4 +1,11 @@
-Currently Exploring utilization of transoformer models in relation to soundwaves
+SMU Data Engineering Grad Dec 2026
+
+Work as a Full Stack Developer / Deployment pipeline maintainer / Security developer at Raytheon
+
+Beginnning individual work with data and models.
+Currently exploring utilization of transformer models in relation to soundwaves
+
+Lets see what we can do!
 
 <!--
 **rhavens/rhavens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
