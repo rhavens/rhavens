@@ -2,8 +2,8 @@ SMU Data Engineering Grad Dec 2026
 
 Work as a Full Stack Developer / Deployment pipeline maintainer / Security developer at Raytheon
 
-Beginnning individual work with data and models.
-Currently exploring utilization of transformer models in relation to soundwaves
+Beginnning individual work with data engineering principles and pipelines.
+Currently exploring utilization of transformer models in relation to soundwaves.
 
 Lets see what we can do!
 
