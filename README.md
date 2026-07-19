@@ -1,11 +1,8 @@
 SMU Data Engineering Grad Dec 2026
 
-Work as a Full Stack Developer / Deployment pipeline maintainer / Security developer at Raytheon
+Work as a Full Stack Developer / Deployment pipeline maintainer at Raytheon
 
-Beginnning individual work with data engineering principles and pipelines.
-Currently exploring utilization of transformer models in relation to soundwaves.
-
-Lets see what we can do!
+This is my development monorepo for all my current work. Current development includes my Data engineering pipeline involving crypto.
 
 <!--
 **rhavens/rhavens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
